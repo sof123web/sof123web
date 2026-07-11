@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
+<h1 align="center">Hi 👋, I'm sof</h1>
 <h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**Me gusta mucho el maquillaje, las fotos, el diseño, la programacion y el cuidado propio. Estas son algunas de todas las cosas que me gustan soy muy extrovertida y me gusta estar con  mis amigos commpariendo y interactuando. Esta descripcion corta es un pequeño pedacito de mi forma de ser.**
 
 -----
 
